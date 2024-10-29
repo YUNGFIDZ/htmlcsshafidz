@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Ketoprak</h1>
+<p>Ketoprak merupakan makanan khas Indonesia yang menggunakan ketupat sebagai bahan utamanya. Biasanya, ketoprak dijajakan menggunakan kereta dorong di jalan-jalan atau kaki lima. Makanan khas ini banyak ditemui di wilayah Jadetabek dan Kota Cirebon, Jawa Barat..</p>
+
+</body>
+</html>
+
+<b> - Hafizh
+<strong> - Kaya
+<i> - Ambbalabu
+<em> - Azzam
+<mark> - Labubu
+<small> - Chili 
+<del> - Oil
+<ins> - asek
+<sub> - cihuy
+<sup> - iman
+
+<ul>
+  <li>Kurni</li>
+  <li>Resto</li>
+  <li>Wahyu</li>
+</ul>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Text input fields</h2>
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="Hafedz"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Abdeelah">
+</form>
+
